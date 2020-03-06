@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.listadefornecedoresoficial.com	TRUE	/	FALSE	1999999999	__cfduid	dd3e2ab35a37a652d54593b8a22709a071583512196
+www.listadefornecedoresoficial.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.listadefornecedoresoficial.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	rvekwh3uiy3xghrdkrvuwsfn
+.contato.io	TRUE	/	FALSE	1999999999	__cfduid	d0116e9a089e65f8f1ed1fe6d33b8c3db1583512200
+blob.contato.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+
